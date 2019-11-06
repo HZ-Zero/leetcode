@@ -6,7 +6,8 @@ public class test {
     @Test
     public void test3()
     {
-
+        boolean[][] dp = new boolean[2][2];
+        System.out.println(dp[1][1]);
 
     }
 }
