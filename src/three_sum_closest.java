@@ -1,9 +1,12 @@
 
 // 16
 
+import java.util.Arrays;
+
 import static java.lang.Math.abs;
 public class three_sum_closest {
     public int threeSumClosest(int[] nums, int target) {
+        Arrays.sort(nums);
         int res=nums[0]+nums[1]+nums[2];
         for (int i=0;i<nums.length-2;i++)
         {
@@ -29,7 +32,6 @@ public class three_sum_closest {
                     k++;
             }
         }
-
         return  res;
 
     }
