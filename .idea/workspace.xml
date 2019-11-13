@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03c752b6-d85c-4eb4-be63-00d19cb0cbfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Letter_Combinations_of_a_Phone_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Merge_Two_Sorted_Lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Remove_Nth_Node_From_End_of_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Valid_Parentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/four_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generate_Parentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_k_Sorted_Lists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Remove_Duplicates_from_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reverse_Nodes_in_k_Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Swap_Nodes_in_Pairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/three_sum_closest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/three_sum_closest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Merge_Two_Sorted_Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Merge_Two_Sorted_Lists.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,18 +23,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/three__sum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
@@ -47,35 +35,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/three_sum_closest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Letter_Combinations_of_a_Phone_Number.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#582#583#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/four_sum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="127">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,29 +67,67 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Merge_Two_Sorted_Lists.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Generate_Parentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#689#690#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Merge_k_Sorted_Lists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Swap_Nodes_in_Pairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Reverse_Nodes_in_k_Group.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
-              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Remove_Duplicates_from_Sorted_Array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2513">
-              <caret line="220" column="26" selection-start-line="220" selection-start-column="23" selection-end-line="220" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1174">
-              <caret line="71" column="60" selection-start-line="71" selection-start-column="50" selection-end-line="71" selection-end-column="60" />
+            <state relative-caret-position="15">
+              <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -172,6 +173,11 @@
         <option value="$PROJECT_DIR$/src/Remove_Nth_Node_From_End_of_List.java" />
         <option value="$PROJECT_DIR$/src/Valid_Parentheses.java" />
         <option value="$PROJECT_DIR$/src/Merge_Two_Sorted_Lists.java" />
+        <option value="$PROJECT_DIR$/src/Generate_Parentheses.java" />
+        <option value="$PROJECT_DIR$/src/Merge_k_Sorted_Lists.java" />
+        <option value="$PROJECT_DIR$/src/Swap_Nodes_in_Pairs.java" />
+        <option value="$PROJECT_DIR$/src/Reverse_Nodes_in_k_Group.java" />
+        <option value="$PROJECT_DIR$/src/Remove_Duplicates_from_Sorted_Array.java" />
       </list>
     </option>
   </component>
@@ -239,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.four_sum.te">
+  <component name="RunManager" selected="JUnit.Generate_Parentheses.te">
     <configuration name="Container_With_Most_Water.te" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="PACKAGE_NAME" value="" />
@@ -250,10 +256,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Regular_Expression_Matching.te" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Generate_Parentheses.te" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Regular_Expression_Matching" />
+      <option name="MAIN_CLASS_NAME" value="Generate_Parentheses" />
       <option name="METHOD_NAME" value="te" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -292,11 +298,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Generate_Parentheses.te" />
         <item itemvalue="JUnit.four_sum.te" />
         <item itemvalue="JUnit.three__sum.te" />
         <item itemvalue="JUnit.Container_With_Most_Water.te" />
         <item itemvalue="JUnit.test.te" />
-        <item itemvalue="JUnit.Regular_Expression_Matching.te" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +323,7 @@
       <workItem from="1573101453070" duration="5374000" />
       <workItem from="1573113032398" duration="5000" />
       <workItem from="1573288057181" duration="5000" />
-      <workItem from="1573466486355" duration="21254000" />
+      <workItem from="1573466486355" duration="28998000" />
     </task>
     <task id="LOCAL-00001" summary="6 7ti">
       <created>1573022399182</created>
@@ -340,13 +346,17 @@
       <option name="project" value="LOCAL" />
       <updated>1573533352359</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="8 9ti">
+      <created>1573557998544</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573557998544</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="three__sum_te - 2019.11.11 at 20h 22m 19s.xml">
-      <configuration name="three__sum.te" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="three__sum_te - 2019.11.11 at 20h 22m 54s.xml">
       <configuration name="three__sum.te" configurationId="JUnit" />
     </history-entry>
@@ -374,9 +384,12 @@
     <history-entry file="four_sum_te - 2019.11.12 at 16h 15m 21s.xml">
       <configuration name="four_sum.te" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Generate_Parentheses_te - 2019.11.12 at 20h 31m 08s.xml">
+      <configuration name="Generate_Parentheses.te" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53752000" />
+    <option name="totallyTimeSpent" value="61496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="36" width="1680" height="958" extended-state="0" />
@@ -430,12 +443,6 @@
           <line>71</line>
           <properties />
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Merge_Two_Sorted_Lists.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -669,7 +676,7 @@
     <entry file="file://$PROJECT_DIR$/src/four_sum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -695,8 +702,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Merge_Two_Sorted_Lists.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Generate_Parentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Merge_k_Sorted_Lists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Swap_Nodes_in_Pairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Reverse_Nodes_in_k_Group.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Remove_Duplicates_from_Sorted_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
