@@ -4,7 +4,8 @@ import org.junit.Test;
 public class Implement_strStr {
     public int strStr(String haystack, String needle) {
 
-        for(int i=0;i<haystack.length();i++)
+        if(needle==null || needle.length()==0)return 0;
+        for(int i=haystack.length()-needle.length();i<haystack.length();i++)
         {
             if(haystack.charAt(i)==needle.charAt(0))
             {
@@ -22,10 +23,8 @@ public class Implement_strStr {
                 }
 
             }
-            i++;
-
+            i--;
         }
-
         return -1;
     }
     @Test

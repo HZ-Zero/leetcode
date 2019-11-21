@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03c752b6-d85c-4eb4-be63-00d19cb0cbfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Implement_strStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Remove_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Divide_Two_Integers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search_Insert_Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search_in_Rotated_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/next_Permutation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Remove_Duplicates_from_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Remove_Duplicates_from_Sorted_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Implement_strStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Implement_strStr.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,62 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Remove_Nth_Node_From_End_of_List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="21" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Valid_Parentheses.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" selection-start-line="6" selection-end-line="34" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Merge_Two_Sorted_Lists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Generate_Parentheses.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#669#670#0" expanded="true" />
-                <element signature="e#727#728#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Merge_k_Sorted_Lists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Swap_Nodes_in_Pairs.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/src/Remove_Duplicates_from_Sorted_Array.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
-              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -105,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Remove_Element.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="360">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,11 +61,56 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Implement_strStr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="375">
+              <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Divide_Two_Integers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/next_Permutation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Search_in_Rotated_Sorted_Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bin_search.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="40" column="28" lean-forward="true" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Search_Insert_Position.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -171,11 +163,15 @@
         <option value="$PROJECT_DIR$/src/Remove_Duplicates_from_Sorted_Array.java" />
         <option value="$PROJECT_DIR$/src/Remove_Element.java" />
         <option value="$PROJECT_DIR$/src/Implement_strStr.java" />
+        <option value="$PROJECT_DIR$/src/Divide_Two_Integers.java" />
+        <option value="$PROJECT_DIR$/src/next_Permutation.java" />
+        <option value="$PROJECT_DIR$/src/Search_in_Rotated_Sorted_Array.java" />
+        <option value="$PROJECT_DIR$/src/bin_search.java" />
+        <option value="$PROJECT_DIR$/src/Search_Insert_Position.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="75" />
     <option name="y" value="36" />
     <option name="width" value="1680" />
     <option name="height" value="958" />
@@ -188,7 +184,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,6 +205,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Implement_strStr.te">
+  <component name="RunManager" selected="JUnit.bin_search.te">
     <configuration name="Generate_Parentheses.te" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="PACKAGE_NAME" value="" />
@@ -270,20 +266,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="four_sum.te" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Search_in_Rotated_Sorted_Array.te" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="four_sum" />
+      <option name="MAIN_CLASS_NAME" value="Search_in_Rotated_Sorted_Array" />
       <option name="METHOD_NAME" value="te" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="three__sum.te" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="bin_search.te" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="three__sum" />
+      <option name="MAIN_CLASS_NAME" value="bin_search" />
       <option name="METHOD_NAME" value="te" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -292,11 +288,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.bin_search.te" />
+        <item itemvalue="JUnit.Search_in_Rotated_Sorted_Array.te" />
         <item itemvalue="JUnit.Implement_strStr.te" />
         <item itemvalue="JUnit.Remove_Duplicates_from_Sorted_Array.te" />
         <item itemvalue="JUnit.Generate_Parentheses.te" />
-        <item itemvalue="JUnit.four_sum.te" />
-        <item itemvalue="JUnit.three__sum.te" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +318,8 @@
       <workItem from="1573873088982" duration="275000" />
       <workItem from="1574062731690" duration="569000" />
       <workItem from="1574073225945" duration="444000" />
-      <workItem from="1574165016638" duration="2134000" />
+      <workItem from="1574165016638" duration="4501000" />
+      <workItem from="1574298578104" duration="6797000" />
     </task>
     <task id="LOCAL-00001" summary="6 7ti">
       <created>1573022399182</created>
@@ -359,49 +356,56 @@
       <option name="project" value="LOCAL" />
       <updated>1573658876687</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="8 9ti">
+      <created>1574214686076</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574214686076</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="four_sum_te - 2019.11.12 at 16h 14m 31s.xml">
-      <configuration name="four_sum.te" configurationId="JUnit" />
+    <history-entry file="Implement_strStr_te - 2019.11.20 at 09h 50m 58s.xml">
+      <configuration name="Implement_strStr.te" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="four_sum_te - 2019.11.12 at 16h 15m 21s.xml">
-      <configuration name="four_sum.te" configurationId="JUnit" />
+    <history-entry file="Search_in_Rotated_Sorted_Array_te - 2019.11.21 at 09h 41m 46s.xml">
+      <configuration name="Search_in_Rotated_Sorted_Array.te" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Generate_Parentheses_te - 2019.11.12 at 20h 31m 08s.xml">
-      <configuration name="Generate_Parentheses.te" configurationId="JUnit" />
+    <history-entry file="Search_in_Rotated_Sorted_Array_te - 2019.11.21 at 09h 47m 14s.xml">
+      <configuration name="Search_in_Rotated_Sorted_Array.te" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Remove_Duplicates_from_Sorted_Array_te - 2019.11.14 at 10h 12m 34s.xml">
-      <configuration name="Remove_Duplicates_from_Sorted_Array.te" configurationId="JUnit" />
+    <history-entry file="Search_in_Rotated_Sorted_Array_te - 2019.11.21 at 10h 25m 16s.xml">
+      <configuration name="Search_in_Rotated_Sorted_Array.te" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Remove_Duplicates_from_Sorted_Array_te - 2019.11.14 at 10h 12m 46s.xml">
-      <configuration name="Remove_Duplicates_from_Sorted_Array.te" configurationId="JUnit" />
+    <history-entry file="Search_in_Rotated_Sorted_Array_te - 2019.11.21 at 10h 27m 51s.xml">
+      <configuration name="Search_in_Rotated_Sorted_Array.te" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Remove_Duplicates_from_Sorted_Array_te - 2019.11.14 at 10h 13m 06s.xml">
-      <configuration name="Remove_Duplicates_from_Sorted_Array.te" configurationId="JUnit" />
+    <history-entry file="bin_search_te - 2019.11.21 at 10h 52m 25s.xml">
+      <configuration name="bin_search.te" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Remove_Duplicates_from_Sorted_Array_te - 2019.11.14 at 10h 14m 57s.xml">
-      <configuration name="Remove_Duplicates_from_Sorted_Array.te" configurationId="JUnit" />
+    <history-entry file="bin_search_te - 2019.11.21 at 10h 55m 29s.xml">
+      <configuration name="bin_search.te" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Remove_Duplicates_from_Sorted_Array_te - 2019.11.20 at 09h 21m 47s.xml">
-      <configuration name="Remove_Duplicates_from_Sorted_Array.te" configurationId="JUnit" />
+    <history-entry file="bin_search_te - 2019.11.21 at 10h 56m 19s.xml">
+      <configuration name="bin_search.te" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Remove_Duplicates_from_Sorted_Array_te - 2019.11.20 at 09h 29m 16s.xml">
-      <configuration name="Remove_Duplicates_from_Sorted_Array.te" configurationId="JUnit" />
+    <history-entry file="bin_search_te - 2019.11.21 at 10h 56m 23s.xml">
+      <configuration name="bin_search.te" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Remove_Duplicates_from_Sorted_Array_te - 2019.11.20 at 09h 30m 50s.xml">
-      <configuration name="Remove_Duplicates_from_Sorted_Array.te" configurationId="JUnit" />
+    <history-entry file="bin_search_te - 2019.11.21 at 10h 56m 47s.xml">
+      <configuration name="bin_search.te" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66574000" />
+    <option name="totallyTimeSpent" value="75738000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="36" width="1680" height="958" extended-state="0" />
+    <frame x="0" y="36" width="1680" height="958" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2863248" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2899878" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -410,7 +414,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3290993" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290993" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995381" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -752,14 +756,14 @@
     <entry file="file://$PROJECT_DIR$/src/Remove_Duplicates_from_Sorted_Array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Remove_Element.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="360">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -768,8 +772,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Implement_strStr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="375">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Divide_Two_Integers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/next_Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search_in_Rotated_Sorted_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bin_search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="40" column="28" lean-forward="true" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search_Insert_Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
         </state>
       </provider>
     </entry>
