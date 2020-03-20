@@ -7,6 +7,7 @@ public class ali_poker {
 
     }
     public static  void dfs(int deep,int[] poker){
+
         int sum=0;
         int flag=1;
         for (int i=0;i<10;i++){
