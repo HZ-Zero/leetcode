@@ -47,6 +47,7 @@ public class ali_poker {
                 poker[i]-=1;
                 dfs(deep+1,poker);
                 poker[i]+=1;
+
             }
         }
         return ;
